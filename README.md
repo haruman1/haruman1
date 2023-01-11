@@ -60,7 +60,8 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruman1&layout=compact&theme=vision-friendly-dark)
-<!-- BLOG-POST-LIST:START -->
+
 
 ### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
