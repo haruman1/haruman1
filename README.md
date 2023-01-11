@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
 
-- I am a Junior Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- I am a Junior Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from University Pendidikan Indonesia.
 
 - :telescope: I’m student as a Software Engineer and contributing to game and backend for building web applications and game Community.
 
