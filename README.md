@@ -57,9 +57,11 @@
 
 
 ### :fire: My Stats :
+<div>
 ![Haruman Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)&nbsp;
 ![Haruman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruman1&show_icons=true&theme=tokyonight)&nbsp;
 ![Haruman Tops Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruman1&layout=compact&show_icons=true&theme=vision-friendly-dark)
+  </div>
 <hr>
 
 
