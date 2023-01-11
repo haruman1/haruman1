@@ -57,10 +57,14 @@
 
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruman1&layout=compact&theme=vision-friendly-dark)
+![Haruman Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)&nbsp;
+![Haruman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruman1&show_icons=true&theme=tokyonight)&nbsp;
+![Haruman Tops Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruman1&layout=compact&show_icons=true&theme=vision-friendly-dark)
+<hr>
 
+
+### :writing_hand: My Repository :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=PAT-BAGINOTES&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/PAT-BAGINOTES)&nbsp;
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
