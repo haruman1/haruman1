@@ -27,7 +27,7 @@
 <hr>
 
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 - I am a Junior Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from University Pendidikan Indonesia.
 
@@ -37,11 +37,11 @@
 
 - :zap: In my free time, I Study new programming language and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haruman-wiguna-821bb1221)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haruman-wiguna-821bb1221)
 </div>
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next Js" alt="Next Js" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@
 <hr>
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 ![Haruman Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)&nbsp;
 ![Haruman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruman1&show_icons=true&theme=tokyonight)&nbsp;
@@ -65,9 +65,9 @@
 <hr>
 
 
-### :writing_hand: My Repository :
+### ✍️ My Repository :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=PAT-BAGINOTES&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/PAT-BAGINOTES)&nbsp;
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
