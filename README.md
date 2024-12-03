@@ -66,7 +66,8 @@
 
 
 ### ✍️ My Repository :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=PAT-BAGINOTES&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/PAT-BAGINOTES)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=nestNekorei&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/nestNekorei)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=MicroSage&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/MicroSage)&nbsp;
 
 ### ✍️ Blog Posts :
 <!-- BLOG-POST-LIST:START -->
