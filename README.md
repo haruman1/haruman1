@@ -67,10 +67,11 @@
 <hr>
 
 
-### ✍️ My Repository :
+### ✍️ My Repository Update :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=Microsage&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/Microsage)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=nestNekorei&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/nestNekorei)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=MicroSage&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/MicroSage)&nbsp;
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=Wedding&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/Wedding)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=haruman1&repo=CI4-LIB&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/haruman1/CI4-LIB)&nbsp;
 ### ✍️ Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
