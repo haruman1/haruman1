@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/wigunaharuman">
+  <a href="https://haruman.me">
     <img src="https://img.shields.io/badge/Haruman-Portofolio?style=for-the-badge&logo=chromewebstore&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/haruman-wiguna-821bb1221">
