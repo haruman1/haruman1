@@ -69,7 +69,7 @@
 ![Haruman Streak](http://github-readme-streak-stats.herokuapp.com?user=haruman1&theme=merko&background=00000)&nbsp;
 ![Haruman's GitHub stats](https://github-readme-stats.vercel.app/api?username=haruman1&show_icons=true&theme=tokyonight)&nbsp;
 ![Haruman Tops Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haruman1&layout=compact&show_icons=true&theme=vision-friendly-dark)
-[![Star History Chart](https://api.star-history.com/svg?repos=haruman1/ProyekLaravel&type=Date)](https://www.star-history.com/#haruman1/ProyekLaravel&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=haruman1/lara&type=Date)](https://www.star-history.com/#haruman1/lara&Date)
 <hr>
 
 
